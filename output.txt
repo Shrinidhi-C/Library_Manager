@@ -1,0 +1,15 @@
+Alice borrowed: Book: Python 101 by A. Rao (ID 1)
+Alice's books: ['Python 101']
+Could not borrow: Python 101 is already borrowed
+Bob borrowed: Magazine: Campus Weekly, issue 14 (ID 2)
+Could not borrow: Bob has reached the borrow limit of 1
+Could not return: Intro to OOP was not borrowed by Alice
+Alice returned the book. Late fee: Rs 6
+Alice's books: []
+Book available? True
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: Campus Weekly, issue 14 (ID 2) -> late fee for 3 days: Rs 3
+DVD: Intro to OOP, 90 minutes (ID 3) -> late fee for 3 days: Rs 15
+Private attribute is hidden: 'Book' object has no attribute '__available'
+Book available? True
+Total items created: 3
